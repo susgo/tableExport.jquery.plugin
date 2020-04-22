@@ -11,5 +11,8 @@
     {
       "name": "kayalshri"
     }
-  ]
+  ],
+  "require": {
+    "hhurz/tableExport.jquery.plugin": "1.10.17",  
+  }
 }
