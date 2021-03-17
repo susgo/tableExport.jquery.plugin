@@ -1,2 +1,4 @@
 .idea
 tableExport.jquery.plugin.iml
+vendor
+composer.lock
